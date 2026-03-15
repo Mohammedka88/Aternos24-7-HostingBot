@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": ">llll",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "Coconat26.aternos.me",
+    "port": 18352,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -79,7 +79,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1482708118520463510/4O5h2MnWj1aK4UvI1cpDkn-HIhQP4T29XlzSlIgKSxqDd7Y6AXg-EqsWiq9bU_x6M6Y8",
     "events": {
       "connect": true,
       "disconnect": true,
